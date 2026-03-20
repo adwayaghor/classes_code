@@ -81763,7 +81763,7 @@ f=B.h.bE(0.1)
 e=A.b0(b,a2?16:24,b)
 d=t.p
 return A.cx(A.cU(A.c([r,n,m,l,new A.cq(new A.ab(k,0,k,0),j,b),i,h,g,A.cU(A.c([new A.Hh(f,b),e,A.bh("Knowledge For All",b,b,b,b,A.bs().$3$color$fontSize$fontWeight(B.aP,a2?14:16,B.af),b,b)],d),B.M,B.A,B.K)],d),B.M,B.A,B.K),B.r,b,b,B.lx,b,b,new A.ab(s,q,s,q),1/0)},
-JK(a,b){var s=this,r=null,q=a?18:24,p=a?14:16,o=A.bh("Contact Information",r,r,r,r,A.bs().$3$color$fontSize$fontWeight(B.h,q,B.af),r,r),n=A.b0(r,a?12:16,r),m=A.bh("Reach out to us and we'll get back to you.",r,r,r,r,A.bs().$3$color$fontSize$height(B.h.bE(0.6),p,1.6),r,r),l=A.b0(r,a?24:40,r),k=s.JL(B.n9,a,s.ga8m(),"Email","contact@codingclasses.com"),j=A.b0(r,a?16:24,r),i=s.a1v(a)
+JK(a,b){var s=this,r=null,q=a?18:24,p=a?14:16,o=A.bh("Contact Information",r,r,r,r,A.bs().$3$color$fontSize$fontWeight(B.h,q,B.af),r,r),n=A.b0(r,a?12:16,r),m=A.bh("Reach out to us and we'll get back to you.",r,r,r,r,A.bs().$3$color$fontSize$height(B.h.bE(0.6),p,1.6),r,r),l=A.b0(r,a?24:40,r),k=s.JL(B.n9,a,s.ga8m(),"Email","cmfclasses@gmail.com"),j=A.b0(r,a?16:24,r),i=s.a1v(a)
 return A.cU(A.c([o,n,m,l,k,j,i,A.b0(r,a?16:24,r),s.JL(B.jx,a,r,"Mode","Online")],t.p),B.ap,B.A,B.K)},
 a1v(a){var s=null,r=a?44:52,q=a?20:24,p=a?12:14,o=a?14:16,n=a?20:24,m=a?10:12,l=a?10:14,k=A.c([B.bd.bE(0.2),B.aP.bE(0.2)],t.t_),j=A.cw(12)
 l=A.cx(A.iQ(B.Es,s,s,B.aP,s,s,s,s,s,s,s,q,s,s),B.r,s,s,new A.c_(s,s,s,j,s,new A.hp(B.cV,B.dO,B.ba,k,s,s),B.W),r,s,new A.ab(l,l,l,l),r)
